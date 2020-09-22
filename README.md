@@ -24,6 +24,9 @@
 - [Using the ternary operator in Ruby](https://medium.com/@m.jester.93/using-the-ternary-operator-in-ruby-fbebc9f7214d)
 - [Using Faker Gem To Seed Your Application](https://medium.com/@m.jester.93/using-faker-gem-to-seed-your-application-6a6ec4143542)
 
+[See the rest here!](https://medium.com/@m.jester.93)
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/michael-jester-2b959665/"><img align="left" alt="Linkedin | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.twitter.com/cfb_moose"><img align="left" alt="Linkedin | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
