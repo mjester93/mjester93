@@ -19,6 +19,7 @@
 <br />
 
 ### Recent Blogs:
+- [Intro to “Dunder” Methods in Python](https://medium.com/@m.jester.93/intro-to-dunder-methods-in-python-33e204f83709)
 - [Adding Leaflet To Your Rails Application](https://medium.com/@m.jester.93/adding-leaflet-to-your-rails-application-c474fb6af2a2)
 - [Creating a Rails Backend API from Scratch](https://medium.com/@m.jester.93/creating-a-rails-backend-api-from-scratch-fa774aada3f)
 - [Using the ternary operator in Ruby](https://medium.com/@m.jester.93/using-the-ternary-operator-in-ruby-fbebc9f7214d)
