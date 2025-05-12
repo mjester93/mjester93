@@ -4,11 +4,7 @@
 - 🏫 I graduated from Flatiron School in 2020
 
 ### Languages and Tools:
-<img align="left" alt="Python" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
+[![My Skills](https://skillicons.dev/icons?i=python,go,js,postgres&theme=light)](https://skillicons.dev)
 <br />
 
 ### Recent Blogs:
